@@ -1,0 +1,16 @@
+Coin Collector
+Made by Kyle Knutson
+
+------------------------
+You are the Pink circle
+
+Move around the screen using the Directional Keys - Up, Down, Left, Right
+
+Collect the coins (the gold circles)
+
+Don't move out of the Boundaries or you lose.
+
+If you get the Game Over Screen (You Lose, Bitch) press the SPACE BAR to start again!
+-----------------------
+
+Thank you for playing!
